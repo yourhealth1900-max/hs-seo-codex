@@ -1,0 +1,2 @@
+Placeholder for affiliate link tracking sheet.
+Add one link per line using the format: Partner Name | URL | Tracking Notes.
