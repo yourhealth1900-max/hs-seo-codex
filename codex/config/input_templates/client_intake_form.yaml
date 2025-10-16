@@ -1,0 +1,37 @@
+client:
+  company_name: ""
+  website_url: ""
+  industry: ""
+  brand_voice_keywords:
+    - ""
+    - ""
+    - ""
+
+contacts:
+  primary:
+    name: ""
+    email: ""
+    role: ""
+  approvals:
+    - name: ""
+      email: ""
+      responsibility: ""
+
+content_goals:
+  primary_objective: "Lead generation"
+  secondary_objective: "Brand authority"
+  success_metrics:
+    organic_traffic: 0
+    conversions: 0
+    serp_rank: "Top 3"
+
+compliance_requirements:
+  legal_review_needed: false
+  restricted_topics: []
+  mandatory_disclaimers: []
+
+assets_provided:
+  - type: "style_guide"
+    location: ""
+  - type: "product_sheets"
+    location: ""

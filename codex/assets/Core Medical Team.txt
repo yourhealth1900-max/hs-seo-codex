@@ -1,0 +1,2 @@
+Placeholder for core medical review board roster.
+List Name | Credentials | Specialty | Contact Notes for each reviewer.

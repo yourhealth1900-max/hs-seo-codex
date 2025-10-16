@@ -1,0 +1,4 @@
+name,url,internal_slug,image_html
+"HeartPlus Monitor","https://example.com/heartplus","heartplus-monitor","<img src='/images/heartplus.jpg' alt='HeartPlus Monitor' />"
+"OrthoFlex Brace","https://example.com/orthoflex","orthoflex-brace","<img src='/images/orthoflex.jpg' alt='OrthoFlex Brace' />"
+"NeuroCalm Supplements","https://example.com/neurocalm","neurocalm-supplements","<img src='/images/neurocalm.jpg' alt='NeuroCalm Supplements' />"
