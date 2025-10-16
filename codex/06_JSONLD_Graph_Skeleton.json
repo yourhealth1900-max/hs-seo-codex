@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://example.com/slug#article",
+      "headline": "SEO_TITLE",
+      "description": "META_150",
+      "mainEntityOfPage": {
+        "@id": "https://example.com/slug"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Your Name"
+      },
+      "reviewedBy": {
+        "@type": "Physician",
+        "name": "Dr. Reviewer"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "FOCUS_KW"
+      },
+      "datePublished": "2025-10-16",
+      "dateModified": "2025-10-16"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://example.com/slug#faq"
+    }
+  ]
+}
