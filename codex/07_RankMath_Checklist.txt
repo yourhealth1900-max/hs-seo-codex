@@ -1,0 +1,14 @@
+RankMath SEO Protocol Checklist
+================================
+
+□ Title ≤60 chars; Meta description ≤150 chars (exact)
+□ Slug: short, includes focus KW
+□ Focus KW density 0.8–1.3% (never >1.5%) and appears in first 10% of content
+□ 8–15 internal links (relevant); 10–15 trusted external citations inside body
+□ Affiliate links use rel="sponsored noopener"; add disclosure where needed
+□ Short paragraphs (≤50 words); lists/tables for scanability
+□ Images with descriptive alt; fixed width/height; lazy loading
+□ Add/merge section JSON-LD fragments into page @graph and validate FAQ
+□ Mobile performance: pass Lighthouse
+
+End of HS-SEO Codex
