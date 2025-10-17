@@ -1,0 +1,22 @@
+{
+  "article": {
+    "title": "Asset Wire Cleanup Run",
+    "slug": "asset-wire-cleanup-run",
+    "summary": "Assets wire maintenance run with updated metadata exports.",
+    "published_at": "2025-10-17"
+  },
+  "assets": {
+    "images": [
+      "hero-banner.webp",
+      "workflow-diagram.png",
+      "team-collaboration.jpg"
+    ],
+    "documents": [
+      "article_full_html.txt"
+    ]
+  },
+  "automation": {
+    "internal_link_recommendations": 12,
+    "image_audit_findings": 3
+  }
+}

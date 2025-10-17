@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Asset Wire Cleanup Run</title>
+</head>
+<body>
+  <h1>Asset Wire Cleanup Run</h1>
+  <p>This export mirrors the full HTML article generated during the October 17, 2025 asset wire update.</p>
+</body>
+</html>
