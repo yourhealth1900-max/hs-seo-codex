@@ -1,0 +1,17 @@
+[
+  {
+    "source": "/guides/seo-automation/overview",
+    "target": "/solutions/healthcare-seo-suite",
+    "anchor": "healthcare SEO suite"
+  },
+  {
+    "source": "/guides/seo-automation/overview",
+    "target": "/blog/automating-site-audits",
+    "anchor": "automating site audits"
+  },
+  {
+    "source": "/solutions/healthcare-seo-suite",
+    "target": "/blog/structured-data-healthcare",
+    "anchor": "structured data workflows"
+  }
+]
